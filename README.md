@@ -90,7 +90,7 @@ Buscamos el acceso directo que se nos ha creado en el escritorio y damos doble c
 
 De esta manera habremos instalado correctamente el programa y ya está listo para ser utilizado. 
 
-<img src="https://raw.githubusercontent.comRockevinche/Images/main/POO/12.png" width = "510">
+<img src="https://raw.githubusercontent.com/Rockevinche/Images/main/POO/12.png" width = "510">
 
 # **Manual de usuario**
 
